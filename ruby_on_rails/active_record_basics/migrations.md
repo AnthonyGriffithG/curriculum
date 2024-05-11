@@ -84,7 +84,7 @@ These are great questions, and you should feel comfortable asking them even if y
 
 1. Read the [Migrations chapter of Rails Guides](http://guides.rubyonrails.org/active_record_migrations.html).
     - Don't worry about 3.6-3.8.
-    - Just skim section 7.
+    - Just skip section 7.
     - Seeds (section 8) are useful and you'll be using them later.  It saves you a lot of work, especially when you're learning and will end up blowing away your database and starting over a lot.
 
 </div>
